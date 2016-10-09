@@ -1,5 +1,7 @@
 # dotnetcore
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
+
 # Usage
 
     git clone https://github.com/sepe81/dotnetcore.git
